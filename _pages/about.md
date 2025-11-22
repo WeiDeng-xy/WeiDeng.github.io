@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a PhD candidate in Environmental Engineering at the University of Northern British Columbia (https://www.unbc.ca/), specializing in advanced oxidation processes, heavy-metal complex degradation, and oil–water separation in cold-region marine environments. My research focuses on reaction mechanisms, machine-learning-assisted modelling, and engineering applications of oxidation technologies.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am fortunate to be advised by Prof. Jianbing Li (https://web.unbc.ca/~li/) from the School of Engineering at UNBC. I previously completed my Master's degree at Wenzhou University and my Bachelor's degree at Shanghai Maritime University, both in Environmental Engineering.
 
 A data-driven personal website
 ======
